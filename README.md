@@ -18,7 +18,7 @@ Initial requirements:
 
 ```sh
 python3 -m pip install -r requirements.txt
-python3 yta.py
+python3 wpp_analysis.py
 ```
 
 ### License
