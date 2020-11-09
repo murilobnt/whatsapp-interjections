@@ -1,7 +1,7 @@
 ## WhatsApp Interjections
 
 This presents a project that uses data from a WhatApp group chat in order to
-visualize how many interjections the users has sent.
+visualize how many interjections the users have sent.
 
 This project is written in Python, and it uses the Matplotlib, Numpy, emoji,
 regex, Plotly, and Pandas libraries.
